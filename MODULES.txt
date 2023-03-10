@@ -1,0 +1,5 @@
+string
+os
+colorama
+win32console
+requests
